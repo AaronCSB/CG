@@ -1,1 +1,1 @@
-"# CG" 
+Kürteil für Computergrafik
